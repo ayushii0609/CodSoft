@@ -33,7 +33,7 @@ Technologies Used
 - JavaScript: Interactivity and dynamic functionality
 
 Installation and Setup
-1. Clone the repository using git clone https://github.com/ayushii0609CodSoft.git
+1. Clone the repository using git clone https://github.com/ayushii0609/CodSoft/Projects.git
 2. Open the project folders in a code editor or IDE
 3. View the projects in a web browser by opening the HTML files
 
